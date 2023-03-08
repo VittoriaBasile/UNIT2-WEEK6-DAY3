@@ -224,6 +224,10 @@ header .container1 .container2 img {
   opacity: 0;
   animation: fade-in 1s forwards 1s;
 }
+header .container1 .buttons {
+  display: flex;
+  justify-content: center;
+}
 header .container1 .buttons button {
   text-align: center;
   opacity: 0;
